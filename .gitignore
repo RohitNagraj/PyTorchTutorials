@@ -1,1 +1,4 @@
 \MNIST
+\.ipynb_checkpoints/
+\CatsDogs/
+training_data.npy
